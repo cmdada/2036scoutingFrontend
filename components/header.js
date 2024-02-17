@@ -12,7 +12,7 @@ class Header extends HTMLElement {
           <span></span>
         </div>
         <nav class="navbar">
-          <a href="index.html">home</a>
+          <a href="index.html">2036 scouting</a>
         </nav>
       </header>
     `;
